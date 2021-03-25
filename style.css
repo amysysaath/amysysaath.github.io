@@ -20,9 +20,10 @@ h1 {
 h2 {
   color: #ffffff;
 }
+
 img {
   min-width: 250px;
-  max-width:  35%;
+  max-width:  25%;
   float: right;
   padding: 10px
 }
