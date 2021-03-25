@@ -1,0 +1,44 @@
+body {
+  font-family: avenir, denver, futura, sans-serif;
+  color: #5B5B5B;
+
+}
+
+.container {
+  background: #C6DCEA;
+  width: 80%;
+  min-width: 700px;
+  margin: 0 auto;
+    padding: 15px;
+}
+
+h1 {
+  color: white;
+  
+}
+
+h2 {
+  color: #ffffff;
+}
+img {
+  min-width: 250px;
+  max-width:  35%;
+  float: right;
+  padding: 10px
+}
+
+.content-professional {
+  margin: 10px;
+}
+
+.pos-date {
+  font-style: oblique;
+}
+
+#contact {
+  font-style: strong;
+}
+
+#blurb {
+  font-style: oblique;
+}
